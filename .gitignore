@@ -1,0 +1,2 @@
+target/*
+!target/app-999-1.0.jar
